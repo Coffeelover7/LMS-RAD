@@ -1,0 +1,62 @@
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.exe
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.deps.json
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.runtimeconfig.json
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.pdb
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.AssemblyReference.cache
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Form1.resources
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.MDI_Form.resources
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Resources.resources
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.GenerateResource.cache
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.AssemblyInfo.vb
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.CopyComplete
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\refint\RAD Assigment - Library Managment System.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.pdb
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.genruntimeconfig.cache
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\ref\RAD Assigment - Library Managment System.dll
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.bookreturn.resources
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.issue.resources
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Registation.resources
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Searchbook.resources
+C:\Users\ASUS TUF\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Student.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.exe
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.deps.json
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.runtimeconfig.json
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\RAD Assigment - Library Managment System.pdb
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.bookreturn.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Form1.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.issue.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.MDI_Form.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Resources.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Registation.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Searchbook.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD_Assigment___Library_Managment_System.Student.resources
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.AssemblyInfo.vb
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.vbproj.CopyComplete
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\refint\RAD Assigment - Library Managment System.dll
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.pdb
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\RAD Assigment - Library Managment System.genruntimeconfig.cache
+C:\Users\Asus\source\repos\RAD Assigment - Library Managment System\RAD Assigment - Library Managment System\obj\Debug\net6.0-windows\ref\RAD Assigment - Library Managment System.dll
